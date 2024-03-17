@@ -31,7 +31,8 @@ const Abouts = () => {
         height={240}
       />
       <div>
-        <h1 className='text-bold text-5xl text-purple-900 text-center ml-16'>Code Hackathon</h1>
+      <h1 className='text-bold text-5xl text-purple-900 text-center ml-16'>Code Hackathon</h1>
+
         <h1 className='text-bold text-2xl  text-center ml-16'>Get ready to tackle real-world problems ranging from software development <br></br>to data analysis and beyond. <br></br>Our carefully crafted problem statements will test your skills and push your limits.
           </h1>
       </div> 

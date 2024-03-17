@@ -124,6 +124,7 @@ function App() {
     <h1 className='ok'>
       VIT BHOPAL
     </h1>
+    
     </div>
     
   );
