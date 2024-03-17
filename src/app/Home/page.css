@@ -1,0 +1,94 @@
+.container {
+    position: absolute;
+    bottom: -10px;
+    left: 900px;
+    background-color: rgba(157, 151, 151, 0.853);
+    width: 400px; /* Adjust width as needed */
+    height: 600px; /* Adjust height as needed */
+  }
+  .ok {
+    position: absolute;
+    bottom: -10px;
+    left: 1060px;
+    font-size: x-large;
+   
+    width: 400px; /* Adjust width as needed */
+    height: 600px; /* Adjust height as needed */
+  }
+  .ok1 {
+    position: absolute;
+    bottom: -30px;
+    left: 1069px;
+    font-size: xxx-large;
+    font-weight: bold;
+    width: 400px; /* Adjust width as needed */
+    height: 600px; /* Adjust height as needed */
+  }
+  .ok2 {
+    position: absolute;
+    bottom: -90px;
+    left: 1060px;
+    font-size: x-large;
+     
+    width: 400px; /* Adjust width as needed */
+    height: 600px; /* Adjust height as needed */
+  }
+  .ok3 {
+    position: absolute;
+    bottom: -130px;
+    left: 920px;
+    font-size: x-large;
+     
+    width: 400px; /* Adjust width as needed */
+    height: 600px; /* Adjust height as needed */
+  }
+  .ok4 {
+    position: absolute;
+    bottom: -160px;
+    left: 920px;
+    font-size: x-large;
+     
+    width: 400px; /* Adjust width as needed */
+    height: 600px; /* Adjust height as needed */
+  }
+
+  .ok5 {
+    position: absolute;
+    bottom: -130px;
+    left: 1200px;
+    font-size: x-large;
+     
+    width: 400px; /* Adjust width as needed */
+    height: 600px; /* Adjust height as needed */
+  }
+
+  .ok6 {
+    position: absolute;
+    bottom: -160px;
+    left: 1190px;
+    font-size: x-large;
+     
+    width: 400px; /* Adjust width as needed */
+    height: 600px; /* Adjust height as needed */
+  }
+  .ok7 {
+    position: absolute;
+    bottom: 100px;
+    left: 990px;
+    font-size: x-large;
+      
+  }
+  .ok8 {
+    position: absolute;
+    bottom: 340px;
+    left: 990px;
+    font-size: xx-large;
+      
+  }
+  .ok9 {
+    position: absolute;
+    bottom: 40px;
+    left: 1030px;
+    font-size: xx-large;
+      
+  }

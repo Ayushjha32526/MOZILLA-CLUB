@@ -1,0 +1,8 @@
+.ok{
+    font-size: 5rem; /* Adjust font size as needed */
+    font-weight: bold; /* Make the text bold */
+    color: purple; /* Set text color to purple */
+    position: fixed; /* Position the text */
+    bottom: 90px; /* Position the text 20 pixels from the bottom */
+    left: 970px; 
+}

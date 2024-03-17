@@ -1,0 +1,28 @@
+.no{
+    width: 230px; /* Ensure the image fills the container */
+    height: 230px; /* Ensure the image fills the container */
+    object-fit: cover; /* Ensure the image covers the entire container */
+    border-radius: 50%; /* Make the image round */
+    position: absolute; /* Position the image absolutely within the container */
+    bottom: 170px; /* Position the image at the bottom */
+    left: 300px; 
+}
+.no1{
+    width: 230px; /* Ensure the image fills the container */
+    height: 230px; /* Ensure the image fills the container */
+    object-fit: cover; /* Ensure the image covers the entire container */
+    border-radius: 50%; /* Make the image round */
+    position: absolute; /* Position the image absolutely within the container */
+    bottom: 380px; /* Position the image at the bottom */
+    left: 80px; 
+}
+.no2{
+    width: 230px; /* Ensure the image fills the container */
+    height: 230px; /* Ensure the image fills the container */
+    object-fit: cover; /* Ensure the image covers the entire container */
+    border-radius: 50%; /* Make the image round */
+    position: absolute; /* Position the image absolutely within the container */
+    bottom: 10px; /* Position the image at the bottom */
+    left: 80px; 
+}
+
